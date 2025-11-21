@@ -18,7 +18,7 @@ namespace BibliotecaDigital.Services
 
             if (resultados.Count == 0)
             {
-                Console.WriteLine("✗ No se encontraron coincidencias.");
+                Console.WriteLine(" No se encontraron coincidencias.");
                 return;
             }
 

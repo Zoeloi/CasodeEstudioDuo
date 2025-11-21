@@ -15,9 +15,9 @@ namespace BibliotecaDigital.Services
             var libro = libros.FirstOrDefault(l => l.Titulo.ToLower().Contains(titulo));
 
             if (libro == null)
-                Console.WriteLine("✗ No se encontró el libro.");
+                Console.WriteLine(" No se encontró el libro.");
             else
-                Console.WriteLine($"✓ Encontrado: {libro.Titulo} ({libro.Año}) - {libro.Autor}");
+                Console.WriteLine($" Encontrado: {libro.Titulo} ({libro.Año}) - {libro.Autor}");
         }
     }
 }
