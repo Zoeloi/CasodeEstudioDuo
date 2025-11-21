@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\",
+  "WorkspaceRootPath": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\servicios\\buscadorbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\servicios\\buscadorlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\servicios\\buscadorporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\servicios\\buscadorpordescripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\bibliotecadigital\\servicios\\buscadorpordescripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorpordescripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\datos\\datosiniciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\documents\\xxx\\casodeestudioduo\\bibliotecadigital\\servicios\\buscadorlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorlineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\bibliotecadigital\\servicios\\buscadorporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorporfecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\bibliotecadigital\\servicios\\buscadorbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\servicios\\buscadorbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\bibliotecadigital\\datos\\datosiniciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\datos\\datosiniciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\models\\librospropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\bibliotecadigital\\models\\librospropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\models\\librospropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\eddy jr\\source\\repos\\bibliotecadigital\\bibliotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\bibliotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C087002D-1BBC-4969-93C0-1D909BB1F55A}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,76 +48,73 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "LibrosPropiedades.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Models\\LibrosPropiedades.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Models\\LibrosPropiedades.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Models\\LibrosPropiedades.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Models\\LibrosPropiedades.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Models\\LibrosPropiedades.cs",
               "RelativeToolTip": "BibliotecaDigital\\Models\\LibrosPropiedades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T05:00:27.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T05:00:27.337Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DatosIniciales.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Datos\\DatosIniciales.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Datos\\DatosIniciales.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Datos\\DatosIniciales.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Datos\\DatosIniciales.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Datos\\DatosIniciales.cs",
               "RelativeToolTip": "BibliotecaDigital\\Datos\\DatosIniciales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T04:59:18.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T04:59:18.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BuscadorporFecha.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorporFecha.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorporFecha.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Servicios\\BuscadorporFecha.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorporFecha.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorporFecha.cs",
               "RelativeToolTip": "BibliotecaDigital\\Servicios\\BuscadorporFecha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T04:58:38.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BuscadorPorDescripcion.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorPorDescripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorPorDescripcion.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Servicios\\BuscadorPorDescripcion.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorPorDescripcion.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorPorDescripcion.cs",
               "RelativeToolTip": "BibliotecaDigital\\Servicios\\BuscadorPorDescripcion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T04:58:27.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BuscadorBinario.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorBinario.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorBinario.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Servicios\\BuscadorBinario.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorBinario.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorBinario.cs",
               "RelativeToolTip": "BibliotecaDigital\\Servicios\\BuscadorBinario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T04:58:07.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T04:58:07.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BuscadorLineal.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorLineal.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorLineal.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Servicios\\BuscadorLineal.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Servicios\\BuscadorLineal.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Servicios\\BuscadorLineal.cs",
               "RelativeToolTip": "BibliotecaDigital\\Servicios\\BuscadorLineal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T04:57:57.947Z",
               "EditorCaption": ""
@@ -126,14 +123,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Program.cs",
               "RelativeDocumentMoniker": "BibliotecaDigital\\Program.cs",
-              "ToolTip": "C:\\Users\\Eddy Jr\\source\\repos\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
+              "ToolTip": "C:\\Users\\Eddy Jr\\Documents\\xxx\\CasodeEstudioDuo\\BibliotecaDigital\\Program.cs",
               "RelativeToolTip": "BibliotecaDigital\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T04:56:03.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T04:56:03.414Z"
             }
           ]
         }

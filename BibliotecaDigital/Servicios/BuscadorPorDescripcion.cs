@@ -1,12 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using BibliotecaDigital.Models;
 
-namespace BibliotecaDigital.Servicios
+namespace BibliotecaDigital.Services
 {
-    internal class BuscadorPorDescripcion
+    public static class BuscadorFecha
     {
+        public static void MostrarRecienteYAntiguo(List<Libro> libros)
+        {
+            var reciente = libros.OrderByDescending(l => l.Año).First();
+            var antiguo = libros.OrderBy(l => l.Año).First();
+
+            Console.WriteLine($"📘 Más reciente: {reciente.Titulo} ({reciente.Año})");
+            Console.WriteLine($"📕 Más antiguo: {antiguo.Titulo} ({antiguo.Año})");
+        }
     }
 }
