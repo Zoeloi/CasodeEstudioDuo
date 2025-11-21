@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace BibliotecaDigital.Models
 {
-    internal class LibrosPropiedades
+    public class LibrosPropiedades
     {
+
+
     }
 }
