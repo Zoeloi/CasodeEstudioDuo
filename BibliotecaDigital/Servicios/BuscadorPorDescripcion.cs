@@ -5,15 +5,26 @@ using BibliotecaDigital.Models;
 
 namespace BibliotecaDigital.Services
 {
-    public static class BuscadorFecha
+    public static class BuscadorDescripcion
     {
-        public static void MostrarRecienteYAntiguo(List<Libro> libros)
+        public static void BuscarCoincidencias(List<Libro> libros)
         {
-            var reciente = libros.OrderByDescending(l => l.Año).First();
-            var antiguo = libros.OrderBy(l => l.Año).First();
+            Console.Write("Ingrese una palabra clave: ");
+            string clave = Console.ReadLine().ToLower();
 
-            Console.WriteLine($"📘 Más reciente: {reciente.Titulo} ({reciente.Año})");
-            Console.WriteLine($"📕 Más antiguo: {antiguo.Titulo} ({antiguo.Año})");
+            var resultados = libros
+                .Where(l => l.Descripcion.ToLower().Contains(clave))
+                .ToList();
+
+            if (resultados.Count == 0)
+            {
+                Console.WriteLine("✗ No se encontraron coincidencias.");
+                return;
+            }
+
+            Console.WriteLine("\nResultados:");
+            foreach (var l in resultados)
+                Console.WriteLine($"• {l.Titulo} - {l.Descripcion}");
         }
     }
 }
