@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaDigital.Models
 {
-    public class LibrosPropiedades
+    public class Libro
     {
         public string Titulo { get; set; }
 
