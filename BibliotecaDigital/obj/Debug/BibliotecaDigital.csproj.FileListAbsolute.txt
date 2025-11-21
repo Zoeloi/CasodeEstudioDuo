@@ -1,0 +1,7 @@
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\bin\Debug\BibliotecaDigital.exe.config
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\bin\Debug\BibliotecaDigital.exe
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\bin\Debug\BibliotecaDigital.pdb
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\obj\Debug\BibliotecaDigital.csproj.AssemblyReference.cache
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\obj\Debug\BibliotecaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\obj\Debug\BibliotecaDigital.exe
+C:\Users\Alvaro Alcocer\OneDrive\Documentos\caso de estudio final\BibliotecaDigital\obj\Debug\BibliotecaDigital.pdb
