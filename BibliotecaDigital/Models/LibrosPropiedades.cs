@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace BibliotecaDigital.Models
 {
-    public class LibrosPropiedades
+    public class Libro
     {
+        public string Titulo { get; set; }
 
+        public string Autor { get; set; }
 
+        public int Año { get; set; }
+
+        public string Descripcion { get; set; }
     }
 }
